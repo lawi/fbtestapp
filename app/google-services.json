@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "773033801195",
+    "project_id": "fbtestapp-b7159",
+    "storage_bucket": "fbtestapp-b7159.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:773033801195:android:6251abc00419b1d6b3d5ae",
+        "android_client_info": {
+          "package_name": "de.lawi.fbtestapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuHthRY97pTXNI6NOXbU5IGNNb4wEqC48"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
